@@ -1,0 +1,29 @@
+{
+	"pattrstorage" : 	{
+		"name" : "1-random-fbs-mono-input-choice",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"analysis-data" : [ "" ],
+					"input-gain-level" : [ 0.0 ],
+					"input-selection" : [ "" ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"analysis-data" : [ "" ],
+					"input-gain-level" : [ 0.0 ],
+					"input-selection" : [ "" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,29 @@
+{
+	"pattrstorage" : 	{
+		"name" : "3-left-bus-input-choice",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"analysis-data" : [ "1-midi-bus" ],
+					"input-gain-level" : [ 0.0 ],
+					"input-selection" : [ "off" ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"analysis-data" : [ "1-midi-bus" ],
+					"input-gain-level" : [ 0.0 ],
+					"input-selection" : [ "off" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

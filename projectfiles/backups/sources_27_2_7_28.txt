@@ -1,0 +1,15 @@
+off
+1-adc
+2-adc
+1-filtered-fb-l-out
+1-filtered-fb-r-out
+1-loop-station-l-out
+1-loop-station-r-out
+2-loop-station-l-out
+2-loop-station-r-out
+1-airplane-l-out
+1-airplane-r-out
+1-mono-chor-l-out
+1-mono-chor-r-out
+1-stereo-chor-l-out
+1-stereo-chor-r-out

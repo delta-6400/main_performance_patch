@@ -1,0 +1,19 @@
+{
+	"pattrstorage" : 	{
+		"name" : "4-right-bus-input-choice",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"analysis-data" : [ "1-midi-bus" ],
+					"input-gain-level" : [ 0.0 ],
+					"input-selection" : [ "off" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

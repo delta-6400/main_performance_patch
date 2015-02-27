@@ -1,0 +1,31 @@
+{
+	"pattrstorage" : 	{
+		"name" : "6-stereo-bus-right-choice",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"analysis-data" : [ "1-midi-bus" ],
+					"input-gain-level" : [ 0.0 ],
+					"input-selection" : [ "off" ],
+					"input-selection[1]" : [ "off" ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"analysis-data" : [ "1-midi-bus" ],
+					"input-gain-level" : [ 0.0 ],
+					"input-selection" : [ "off" ],
+					"input-selection[1]" : [ "off" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

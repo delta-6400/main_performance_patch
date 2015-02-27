@@ -1,0 +1,20 @@
+{
+	"pattrstorage" : 	{
+		"name" : "1-loop-station-stereo-2-input-router-stereo",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"1-loop-station-stereo-2-input-selection-l" : [ "off" ],
+					"1-loop-station-stereo-2-input-selection-r" : [ "off" ],
+					"analysis-data" : [ "1-midi-bus" ],
+					"input-gain-level" : [ -36.298046 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

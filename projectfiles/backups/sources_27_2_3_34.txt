@@ -1,0 +1,5 @@
+off
+1-adc
+2-adc
+1-filtered-fb-l-out
+1-filtered-fb-r-out

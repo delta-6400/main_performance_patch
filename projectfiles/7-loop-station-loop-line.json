@@ -1,0 +1,20 @@
+{
+	"pattrstorage" : 	{
+		"name" : "7-loop-station-loop-line",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"7-loop-station-clear" : [ 0.0 ],
+					"7-loop-station-freeze-state" : [ 1 ],
+					"7-loop-station-length" : [ 8000.0 ],
+					"7-loop-station-loop-fb" : [ 70.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

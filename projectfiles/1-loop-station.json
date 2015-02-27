@@ -1,0 +1,45 @@
+{
+	"pattrstorage" : 	{
+		"name" : "1-loop-station",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"1-loop-station-line-vol-1" : [ 0.0 ],
+					"1-loop-station-line-vol-10" : [ 0.0 ],
+					"1-loop-station-line-vol-11" : [ 0.0 ],
+					"1-loop-station-line-vol-12" : [ 0.0 ],
+					"1-loop-station-line-vol-2" : [ 0.0 ],
+					"1-loop-station-line-vol-3" : [ 0.0 ],
+					"1-loop-station-line-vol-4" : [ -40.338997 ],
+					"1-loop-station-line-vol-5" : [ 0.0 ],
+					"1-loop-station-line-vol-6" : [ 0.0 ],
+					"1-loop-station-line-vol-7" : [ 0.0 ],
+					"1-loop-station-line-vol-8" : [ 0.0 ],
+					"1-loop-station-line-vol-9" : [ 0.0 ],
+					"1-loop-station-volume" : [ -19.748821 ],
+					"1-loop-station-input-router-2::1-loop-station-in-2-input-choice" : [ 1 ],
+					"1-loop-station-input-router-1::1-loop-station-in-1-input-choice" : [ 1 ],
+					"1-loop-station-input-stereo-2::1-loop-station-stereo-2-input-router-stereo" : [ 1 ],
+					"1-loop-station-input-stereo-1::1-loop-station-stereo-1-input-router-stereo" : [ 1 ],
+					"1-loop-station-line-1::1-loop-station-loop-line" : [ 1 ],
+					"1-loop-station-line-2::2-loop-station-loop-line" : [ 1 ],
+					"1-loop-station-line-3::3-loop-station-loop-line" : [ 1 ],
+					"1-loopstation-line-4::4-loop-station-loop-line" : [ 1 ],
+					"1-loop-station-line-5::5-loop-station-loop-line" : [ 1 ],
+					"1-loop-station-line-6::6-loop-station-loop-line" : [ 1 ],
+					"1-loop-station-line-7::7-loop-station-loop-line" : [ 1 ],
+					"1-loop-station-line-8::8-loop-station-loop-line" : [ 1 ],
+					"1-loop-station-line-9::9-loop-station-loop-line" : [ 1 ],
+					"1-loop-station-line-10::10-loop-station-loop-line" : [ 1 ],
+					"1-loop-station-line-11::11-loop-station-loop-line" : [ 1 ],
+					"1-loop-station-line-12::12-loop-station-loop-line" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

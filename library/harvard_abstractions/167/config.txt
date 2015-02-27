@@ -1,0 +1,7 @@
+chorus-rate-fader, 74;
+delay-length-fader, 71;
+delay-level-fader, 73;
+feedback-fader, 72;
+reverb-gain-fader, 73;
+test2-fader, 17;
+test3-fader, 4;

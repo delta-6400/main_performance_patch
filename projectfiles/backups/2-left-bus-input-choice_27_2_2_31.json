@@ -1,0 +1,19 @@
+{
+	"pattrstorage" : 	{
+		"name" : "2-left-bus-input-choice",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"analysis-data" : [ "1-env-data-normalized" ],
+					"input-gain-level" : [ -30.879156 ],
+					"input-selection" : [ "off" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

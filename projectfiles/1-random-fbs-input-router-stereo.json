@@ -1,0 +1,20 @@
+{
+	"pattrstorage" : 	{
+		"name" : "1-random-fbs-input-router-stereo",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"1-random-fbs-input-selection-l" : [ "off" ],
+					"1-random-fbs-input-selection-r" : [ "off" ],
+					"analysis-data" : [ "1-midi-bus" ],
+					"input-gain-level" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
